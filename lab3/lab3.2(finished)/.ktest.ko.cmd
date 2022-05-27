@@ -1,0 +1,1 @@
+cmd_/home/gsb/oslab/lab3.2/lab3.2/ktest.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/gsb/oslab/lab3.2/lab3.2/ktest.ko /home/gsb/oslab/lab3.2/lab3.2/ktest.o /home/gsb/oslab/lab3.2/lab3.2/ktest.mod.o;  true
