@@ -1,3 +1,9 @@
 # 2022-USTC-OSlab
-OSlab by prof.lyk
-2022春李永坤老师“操作系统原理与设计”课程资料，包括实验与作业
+Lab Introduction:
+  lab1 Configuring Linux environment
+  lab2 Add linux system call. Complete a shell and a top program
+  lab3 Malloc lab. Complete a memory allocator (sbrk) and process memory information statistic program
+  lab4 Complete a simple FAT16 file system
+  
+Additonal Source:
+  The answers to the homeworks
